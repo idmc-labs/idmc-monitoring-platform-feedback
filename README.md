@@ -8,7 +8,9 @@ Please feel free to test it and report bugs or additional features you would lik
 The plan is to release the first version fo the platform in March. If any feature requires more time / budget we'll have wait for V2.
 
 Link to the platform: https://idmc-mm.surge.sh/
+
 Link to tutorial video: https://youtu.be/GFrH2d5cQ34
+
 Feedback on github: https://github.com/idmc-labs/idmc-monitoring-platform-feedback/issues
 
 Enjoy the platform!
